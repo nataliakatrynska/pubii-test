@@ -3,7 +3,7 @@
     <title>docs.com</title>
     <link href="https://nataliakatrynska.github.io/pubii-test/feed.xml" rel="self" />
     <link href="https://nataliakatrynska.github.io/pubii-test" />
-    <updated>2019-06-23T17:54:16-07:00</updated>
+    <updated>2019-06-23T18:03:13-07:00</updated>
     <author>
         <name>NataliaK</name>
     </author>
@@ -17,14 +17,16 @@
         <link href="https://nataliakatrynska.github.io/pubii-test/monday-doc.html"/>
         <id>https://nataliakatrynska.github.io/pubii-test/monday-doc.html</id>
 
-        <updated>2019-06-23T17:52:12-07:00</updated>
+        <updated>2019-06-23T18:02:51-07:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://nataliakatrynska.github.io/pubii-test/media/posts/2/flowers.jfif" alt="" />
                     Why do we use it?It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://nataliakatrynska.github.io/pubii-test/media/posts/2/flowers.jfif" alt="" />
                 <div>
 <h2 id="mcetoc_1de3ebk0r0">Why do we use it?</h2>
 <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
