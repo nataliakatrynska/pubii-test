@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>docs.com</title>
+    <link href="https://nataliakatrynska.github.io/pubii-test/feed.xml" rel="self" />
+    <link href="https://nataliakatrynska.github.io/pubii-test" />
+    <updated>2019-06-23T17:52:35-07:00</updated>
+    <author>
+        <name>NataliaK</name>
+    </author>
+    <id>https://nataliakatrynska.github.io/pubii-test</id>
+
+    <entry>
+        <title>Monday Doc</title>
+        <author>
+            <name>NataliaK</name>
+        </author>
+        <link href="https://nataliakatrynska.github.io/pubii-test/monday-doc.html"/>
+        <id>https://nataliakatrynska.github.io/pubii-test/monday-doc.html</id>
+
+        <updated>2019-06-23T17:52:12-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Why do we use it?It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div>
+<h2 id="mcetoc_1de3ebk0r0">Why do we use it?</h2>
+<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+<p> </p>
+<p> </p>
+<div>
+<h2 id="mcetoc_1de3eblo61">Why do we use it?</h2>
+<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>New Doc</title>
+        <author>
+            <name>NataliaK</name>
+        </author>
+        <link href="https://nataliakatrynska.github.io/pubii-test/new-doc.html"/>
+        <id>https://nataliakatrynska.github.io/pubii-test/new-doc.html</id>
+
+        <updated>2019-06-23T17:26:21-07:00</updated>
+            <summary>
+                <![CDATA[
+                    What is Lorem Ipsum?Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 id="mcetoc_1de3e0ahp0">What is Lorem Ipsum?</h2>
+<p><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
